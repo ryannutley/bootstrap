@@ -5829,3 +5829,63 @@ td.visible-print {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.no-margin {
+	margin: 0 !important;	
+}
+
+.no-margin-top {
+	margin-top: 0 !important;	
+}
+
+.no-margin-bottom {
+	margin-bottom: 0 !important;	
+}
+
+.no-margin-left {
+	margin-left: 0 !important;	
+}
+
+.no-margin-right {
+	margin-right: 0 !important;	
+}
+
+.no-padding {
+	padding: 0px !important;	
+}
+
+.no-padding-top {
+	padding-top: 0px !important;
+}
+
+.no-padding-bottom {
+	padding-bottom: 0px !important;
+}
+
+.no-padding-left {
+	padding-left: 0px !important;
+}
+
+.no-padding-right {
+	padding-right: 0px !important;
+}
+
+.no-border {
+	border: none !important;
+}
+
+.no-border-top {
+	border-top-width: 0px !important;
+}
+
+.no-border-bottom {
+	border-bottom-width: 0px !important;
+}
+
+.no-border-left {
+	border-left-width: 0px !important;
+}
+
+.no-border-right {
+	border-right-width: 0px !important;
+}
